@@ -143,3 +143,15 @@ const cidade = 300000
     }
     digaMeuNome2()
 
+        /*
+            mach-matématica
+                pow(2,2) / potência
+                sqrt(25,2) / raiz
+                ceil - teto / arredondar pra cima
+                floor - chão / arrendondar pra baixo
+                random - aleatorio
+        */
+
+    const calculo = Math.random() * (100 - 1) + 1;
+    console.log(Math.ceil(calculo))
+
